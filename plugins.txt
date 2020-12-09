@@ -119,7 +119,7 @@ blueocean-jira:1.24.2
 
 cucumber-reports:4.1.0
 findbugs:5.0.0
-dependency-check-jenkins-plugin:3.3.5
+dependency-check-jenkins-plugin:3.3.2
 jacoco:3.0.4
 clover:4.10.0
 warnings-ng:8.4.4
