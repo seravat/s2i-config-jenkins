@@ -1,5 +1,5 @@
 structs:1.17
-ansicolor:0.7.3
+ansicolor:0.7.2
 greenballs:1.15
 script-security:1.75
 display-url-api:2.2.0
